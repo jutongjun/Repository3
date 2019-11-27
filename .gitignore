@@ -1,1 +1,3 @@
 readme2.txt
+obj/*.*
+!obj/out.c
